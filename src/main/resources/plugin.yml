@@ -1,0 +1,4 @@
+name: BeastUtils
+version: ${project.version}
+main: com.beastsoftware.beastutils.BeastUtils
+api-version: 1.13
